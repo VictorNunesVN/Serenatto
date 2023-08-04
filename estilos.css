@@ -60,6 +60,14 @@ input[type="checkbox"]:focus {
   background-color: var(--marrom-escuro);
 }
 
+.sizeForm{
+  width: 600px;
+  
+}
 .input-range::-webkit-slider-thumb {
+  background-color: var(--marrom-claro);
+}
+
+footer {
   background-color: var(--marrom-claro);
 }
