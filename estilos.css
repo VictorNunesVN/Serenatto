@@ -64,7 +64,7 @@ input[type="checkbox"]:focus {
   width: 600px;
   
 }
-.input-range::-webkit-slider-thumb {
+.input-range::-webkit-slider-thumb, footer {
   background-color: var(--marrom-claro);
 }
 
