@@ -7,7 +7,6 @@ body {
   --marrom-escuro: #816D4F;
   --marrom-claro: #B29463;
   font-family: var(--fonte-principal);
- 
 }
 
 input[type=checkbox] {
